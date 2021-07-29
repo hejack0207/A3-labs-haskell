@@ -1,2 +1,3 @@
-# A3-labs-haskell
-collections of haskell projects
+# project
+* [makefile](https://github.com/nmattia/makefile)
+* [corrode](https://github.com/vickenty/corrode)
