@@ -18,6 +18,12 @@
 # doc
 * [hoogle](https://github.com/ndmitchell/hoogle)
 
+# books
+* [rwh](https://github.com/bos/rwh)
+* [rwh_epub](https://github.com/runapp/rwh_epub)
+* [realworldhaskell](https://github.com/maczniak/realworldhaskell)
+* [up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell)
+
 # editor
 * [haskell-mode](https://github.com/haskell/haskell-mode)
 * [haskell-snippets](https://github.com/haskell/haskell-snippets)
